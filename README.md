@@ -7,4 +7,4 @@ Description: Implemented Exploratory Data Analysis (EDA) & Visualization using P
 Designed synthetic retail sales dataset and analyzed sales trends, customer behavior, and category-wise performance for data-driven insights.
 <br>
 <br>
-Google Colab File link: https://colab.research.google.com/drive/1IGfzQ5jT3rd8XFg958naseGkTQuT49oN?usp=sharing
+Link to my Colab NoteBook: https://colab.research.google.com/drive/1IGfzQ5jT3rd8XFg958naseGkTQuT49oN?usp=sharing
